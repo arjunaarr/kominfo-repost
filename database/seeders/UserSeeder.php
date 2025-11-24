@@ -20,7 +20,7 @@ class UserSeeder extends Seeder
             'email'=> 'admin@gmail.com',
             'password'=> 'password',
             'university'=> 'Admin Kominfo',
-            'field_of_study'=> 'memek',
+            'field_of_study'=> 'kominfo',
             'bidang'=>'bidang komunikasi dan teknologi',
             'status'=> 'approved',
             'role_id' => '1',
